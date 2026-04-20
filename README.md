@@ -1,5 +1,3 @@
-# Michael Martello
-
 Bridge engineer building practical AI systems for engineering, automation, and real work.
 
 ## What I do
